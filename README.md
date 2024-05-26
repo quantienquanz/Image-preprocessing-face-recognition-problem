@@ -1,2 +1,2 @@
 # Image-preprocessing-face-recognition-problem
-Image preprocessing, face recognition problem
+Nhận dạng khuôn mặt
